@@ -39,8 +39,7 @@ An interactive Power BI dashboard analysing IPL match strategy, venue trends, pl
 - `README.md` — project documentation
   
 ## Related SQL Project
-This dashboard extends my IPL SQL analysis project, where I explored the same dataset using MySQL queries.
-https://github.com/saurav29-DS/IPL-Strategy-Analytics-SQL
+This dashboard extends my IPL SQL analysis project, where I explored the same dataset using MySQL queries.                                https://github.com/saurav29-DS/IPL-Strategy-Analytics-SQL
 
 ## Author
 **Saurav Kumar**  
