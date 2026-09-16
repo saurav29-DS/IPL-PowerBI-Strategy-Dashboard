@@ -37,15 +37,7 @@ An interactive Power BI dashboard analysing IPL match strategy, venue trends, pl
 - `IPL Strategy Analytics Dashboard.pbix` — interactive Power BI report
 - `dashboard screenshots/` — report preview images
 - `README.md` — project documentation
-
-- ## Dashboard Preview
-
-### Match Strategy Analytics
-<img src="dashboard%20screenshots/match strategy dashboard.png" width="1000">
-
-### Player Performance Analytics
-<img src="dashboard%20screenshots/Player performancedashboard.png" width="1000">
-
+  
 ## Related SQL Project
 This dashboard extends my IPL SQL analysis project, where I explored the same dataset using MySQL queries.
 
